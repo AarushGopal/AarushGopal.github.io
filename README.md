@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Aarush Gopalakrishnan
+
+UC Davis 2020
+Computer Science 
+
+Here is all the information that I would like to share with you and the world.
 
 You can use the [editor on GitHub](https://github.com/AarushGopal/AarushGopal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
